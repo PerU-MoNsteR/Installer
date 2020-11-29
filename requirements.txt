@@ -1,0 +1,6 @@
+heroku3
+telethon
+bs4
+requests
+rich
+gitpython   #old way to deploy need to make changes here
