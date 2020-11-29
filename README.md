@@ -12,7 +12,7 @@ pip install -r requirements.txt
 python3 -m viper_installer
 ```
 
-## Geliştiriciler
+## thanks to our owner
 [@peru_monster](https://t.me/peru_monster)
 
 
