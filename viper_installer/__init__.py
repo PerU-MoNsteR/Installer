@@ -19,7 +19,7 @@ def logo (dil = "None"):
    surum = str(sys.version_info[0]) + "." + str(sys.version_info[1])
    console.print(Panel(f"[bold blue]@Viper Installer :wolf:[/]\n\n[bold cyan]Version: [/][i]2.1[/]\n[bold cyan]Python: [/][i]{surum}[/]\n[bold cyan]Dil: [/][i]{dil}[/]"), justify="center")                         
 def tamamlandi (saniye):
-   console.print(Panel(f"[bold green]Kurulum Tamamlandı!\n[i]Botu {round(saniye)} saniye içinde kurdunuz.[/]\n\n[bold green]your bot is almost readydo .alive and thank @peru_monster :)[/]"), justify="center")                         
+   console.print(Panel(f"[bold green]Successfully done!\n[i]Bot {round(saniye)} is ready now.[/]\n\n[bold green]your bot is almost readydo .alive and thank @peru_monster :)[/]"), justify="center")                         
                    
 def rm_r(path):
     if not os.path.exists(path):
