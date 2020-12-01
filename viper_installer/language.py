@@ -19,7 +19,7 @@ def importlang ():
     elif Dil == "3":
         COUNTRY = "United Kingdom"
         LANGUAGE = "EN"
-        TZ = "Europe/London"
+        TZ = "Asia/Kolkata"
     elif Dil == "4":
         COUNTRY = "Uzbekistan"
         LANGUAGE = "UZ"
